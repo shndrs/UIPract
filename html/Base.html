@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Web Page</title>
+        <meta name="description" content="Page description here"/>
+        <meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, inital-scale=1"/>
+
+        <style type="text/css">
+            Body {
+                color: darkslategrey;
+            }
+        </style>
+
+        <script>
+            function func() {
+                var x = document.getElementById("fname");
+                x.value = x.value.toUpperCase();
+            }
+        </script>
+    </head>
+
+    <body>
+        Ov Father Oh Satan Oh Son
+        This JS function will capitalize the value
+        Enter the value: <input type="text" id="fname" onchange="func()"/>
+    </body>
+
+
+</html>
