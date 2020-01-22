@@ -10,17 +10,17 @@
     <form name="Register" action="send.rb" method="POST">
         <table width="50%" border="1" cellpadding="2" cellspacing="2">
             <tr>
-                <td colspan="2" align="center"><strong>Register Application</strong></td>
+                <td colspan="2" align="left"><strong>Register Application</strong></td>
             </tr>
     
             <tr>
                 <td>Firstname</td>
-                <td><input type="text" name="fname" maxlength="50" /></td>
+                <td><input type="text" name="fname" maxlength="50"/></td>
             </tr>
     
             <tr>
                 <td>Lastname</td>
-                <td><input type="text" name="lname" maxlength="50" /></td>
+                <td><input type="text" name="lname" maxlength="50"/></td>
             </tr>
     
             <tr>
@@ -65,13 +65,18 @@
             </tr>
     
             <tr>
-                <td></td>
-                <td></td>
+                <td>Additional Comments</td>
+                <td>
+                    <textarea name="comments" id="10" cols="45" rows="5"></textarea>
+                </td>
             </tr>
     
             <tr>
                 <td></td>
-                <td></td>
+                <td>
+                    <input type="submit" value="Submit" name="submit">
+                    <input type="reset" value="Reset", name="reset">
+                </td>
             </tr>
         </table>
     </form>
