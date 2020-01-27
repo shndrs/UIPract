@@ -8,3 +8,29 @@ h1, h2, h3, h4 {
     font-family: sans-serif;
     color: gray;
 }
+
+.header3text {
+    font-family: fantasy;
+    font-size: large;
+    color: seagreen;
+    font-weight: bold;
+}
+
+.header2text {
+    font-family: fantasy;
+    font-size: medium;
+    color: springgreen;
+    font-weight: normal;
+}
+
+.header1text {
+    font-family: fantasy;
+    font-size: x-large;
+    color: gray;
+    font-weight: bold;
+}
+
+.underline {
+    font-family: fantasy;
+    text-decoration: underline;
+}
