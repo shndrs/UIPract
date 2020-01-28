@@ -1,0 +1,47 @@
+.txtcolor {
+
+    color: red;
+
+}
+
+.txtcolor2 {
+
+    color: #10C212;
+
+}
+
+.txtcolor3 {
+
+    color: rgb(160,50,90);
+    
+}
+
+.txtspace {
+
+    letter-spacing: 10px;
+
+}
+
+.wordspace {
+
+    word-spacing: 10px;
+
+}
+
+.txtalign {
+
+    text-align: left;
+
+}
+
+.txtdeco {
+
+    text-decoration: underline;
+
+}
+
+.txttrans {
+
+    text-transform: capitalize;
+
+}
