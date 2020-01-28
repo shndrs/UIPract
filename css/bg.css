@@ -1,0 +1,7 @@
+#bordereddiv {
+    width: 100%;
+    height: 500px;
+    border: 3px solid black;
+    background-image: url(/Users/home/Documents/SHNDProjects/html-css/html/swan8.jpg);
+    background-position: center;
+}
