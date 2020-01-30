@@ -15,3 +15,12 @@
     top: 80px;
     left: 80px;
 }
+
+#div-3 {
+    background-color: tomato;
+    width: 700px;
+    height: 700px;
+    position: fixed;
+    top: 80px;
+    left: 80px;
+}
