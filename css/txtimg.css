@@ -1,0 +1,16 @@
+#background {
+    background-image: url(txtbg.jpg);
+    padding: 40px;
+}
+
+#textbox {
+    width: auto;
+    height: 100px;
+    opacity: 0.8;
+    background-color: black;
+    padding: 10px;
+}
+
+.text {
+    color: white;
+}
