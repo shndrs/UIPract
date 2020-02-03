@@ -1,0 +1,18 @@
+#div-1 {
+    width: 500px;
+    height: 500px;
+    background: blue;
+    float: left;
+    margin: 10px;
+}
+
+#div-2 {
+    padding: 10px;
+    clear: left;
+    background: yellowgreen;
+}
+
+#div-3 {
+    background: red;
+    padding: 10px;
+}
