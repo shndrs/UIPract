@@ -1,0 +1,21 @@
+#seagreen {
+    width: 400px;
+    height: 400px;
+    background-color: seagreen;
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
+
+#darkgoldenrod {
+    width: 600px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    top: 0px;
+    position: absolute;
+    z-index: 2;
+}
+
+.border {
+    border-radius: 8px;
+}
