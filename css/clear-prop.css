@@ -1,18 +1,19 @@
 #div-1 {
+    background: lightseagreen;
     width: 500px;
     height: 500px;
-    background: blue;
     float: left;
     margin: 10px;
+    padding: 10px;
 }
 
 #div-2 {
+    background: rgb(176, 198, 132);
     padding: 10px;
     clear: left;
-    background: yellowgreen;
 }
 
 #div-3 {
-    background: red;
+    background: seagreen;
     padding: 10px;
 }
