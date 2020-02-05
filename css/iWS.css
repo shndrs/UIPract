@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.5em;
+}
+
+#header {
+    background: black;
+    font-family: Helvetica;
+    height: 100px;
+}
+
+#contentwrapper {
+    float: left;
+    width: 100%;
+}
+
+#contentcolumn {
+    margin: 0 230px 0 230px;
+}
+
+#leftcolumn {
+    float: left;
+    width: 230px;
+    margin-left: -100%;
+    background: #24c8ff;
+}
+
+#rightcolumn {
+    float: left;
+    width: 230px;
+    margin-left: -230px;
+    background: #fffb00;
+}
+
+.innertext {
+    margin: 20px;
+    font-family: Helvetica;
+    color: #5e5e5e;
+}
+
+#footer {
+    clear: left;
+    width: 100%;
+    background: black;
+    color: #FFF;
+    font-family: Helvetica;
+    text-align: center;
+    padding: 4px;
+}
